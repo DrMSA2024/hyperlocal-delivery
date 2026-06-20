@@ -2,124 +2,86 @@
 
 ## Overview
 
-A hyperlocal, community-driven delivery platform connecting customers with nearby delivery partners for deliveries within a 5 km radius. The platform targets tier-2/tier-3 cities and neighborhood delivery in tier-1 cities, offering 40-50% lower delivery costs compared to incumbent platforms.
+A hyperlocal delivery platform connecting customers with nearby delivery partners within a 5 km radius, targeting tier-2/tier-3 cities with 40-50% lower delivery costs.
 
 ## Market Opportunity
 
-### Problem Statement
-- Current delivery platforms (Swiggy, Dunzo, Blinkit) charge 15-25% commission, making delivery uneconomical for most vendors
-- Limited delivery options in tier-2/tier-3 cities and neighborhood areas
-- High unemployment among students, women, and part-time workers seeking flexible income
-- Local merchants lack affordable last-mile delivery infrastructure
-
-### Market Size
-- **India's quick commerce market**: ₹20,000+ crores (growing 40% YoY)
-- **Hyperlocal opportunity**: ₹5,000-8,000 crores (underserved tier-2/3 cities)
-- **Target cities in India**: 50+ tier-2 and tier-3 cities with 1M+ population
-- **TAM for single city (population 2M)**: ₹8-12 crores annually
+- **India's quick commerce**: ₹20,000+ crores (40% YoY growth)
+- **Hyperlocal segment**: ₹5,000-8,000 crores (underserved)
+- **Target TAM**: ₹8-12 crores per city annually
 
 ## Unique Value Proposition
 
 ### For Customers
-- **50% Lower Costs**: ₹20-40 delivery fees vs. ₹50-100 on incumbents
-- **Community Trust**: Local, known delivery partners
-- **Gender Choice**: Select preferred delivery partner gender
-- **Recurring Delivery**: Daily/weekly/monthly subscription plans
-- **Local Commerce**: Direct support for neighborhood businesses
+- 50% lower delivery fees (₹20-40 vs. ₹50-100)
+- Community trust, local delivery partners
+- Gender preference selection
+- Subscription delivery plans
 
-### For Delivery Partners
-- **Flexible Hours**: Choose own work schedule
-- **Low Entry Barrier**: Walk/bicycle option requires ₹0-5,000 investment
-- **Fair Compensation**: Transparent 70-80% payout (vs. 60% industry average)
-- **Women-Safe Environment**: Community-focused verification
-- **Skill Development**: Real business experience
+### For Partners
+- Flexible work schedule
+- Low entry barrier (₹0-5,000 for bicycle)
+- Fair compensation (70-80% payout)
+- Women-safe environment
 
 ### For Merchants
-- **Customer Acquisition**: Access 5,000+ local customers
-- **Affordable Delivery**: ₹10-15 commission per delivery
-- **Simple Operations**: WhatsApp-first integration initially
+- Access to 5,000+ local customers
+- Affordable delivery (₹10-15 commission)
+- WhatsApp integration
 
 ## Business Model
 
 ### Revenue Streams
-1. **Delivery Commission**: 20% platform fee on delivery (₹20-50 per delivery)
-2. **Subscription Plans**: ₹499-999/month for daily recurring deliveries
-3. **Merchant Premium**: ₹5,000-10,000/month for analytics and prioritization
-4. **Surge Pricing**: 1.5-2x multiplier during peak hours (5-7 PM)
-5. **Future**: Insurance products, merchant financing
+1. Delivery commission: 20% on delivery fee (₹6 per ₹30 delivery)
+2. Subscriptions: ₹499-999/month (75% margin)
+3. Merchant premium: ₹5,000-10,000/month
+4. Surge pricing: 1.5-2x during peak hours
 
-### Unit Economics (Target)
-- **Average Order Value**: ₹300-500
-- **Delivery Fee**: ₹30 (platform revenue ₹6, partner earnings ₹24)
-- **Cost of Delivery**: ₹15 (platform cost - ops, tech, support)
-- **Contribution Margin**: ₹9-15 per delivery (30-50%)
-- **Break-even Order Volume**: 10,000-15,000 monthly orders
+## Financial Projections (Year 1)
 
-## Financial Projections
-
-### Year 1 Targets
-| Metric | Month 3 | Month 6 | Month 12 |
-|--------|---------|---------|----------|
-| Active Customers | 1,500 | 3,500 | 8,000 |
-| Delivery Partners | 150 | 250 | 400 |
+| Metric | M3 | M6 | M12 |
+|--------|-----|------|-------|
+| Customers | 1,500 | 3,500 | 8,000 |
+| Partners | 150 | 250 | 400 |
 | Monthly Orders | 2,000 | 5,000 | 12,000 |
-| Monthly GMV | ₹6 Lakhs | ₹15 Lakhs | ₹36 Lakhs |
-| Monthly Revenue | ₹1.2 Lakhs | ₹3 Lakhs | ₹7.2 Lakhs |
-| Gross Profit | ₹24K | ₹75K | ₹2.16 Lakhs |
-| Burn Rate | ₹8 Lakhs | ₹6 Lakhs | ₹4 Lakhs |
+| Monthly GMV | ₹6L | ₹15L | ₹36L |
+| Monthly Revenue | ₹1.2L | ₹3L | ₹7.2L |
 
 ## Funding Requirements
-- **MVP Development**: ₹15-20 Lakhs
-- **Operations Setup**: ₹10-15 Lakhs
-- **Marketing & Launch**: ₹5-10 Lakhs
-- **Working Capital (6 months)**: ₹24 Lakhs
-- **Total Seed Round**: ₹60-80 Lakhs (USD 7,200-9,600)
 
-## Go-to-Market Strategy
+- MVP Development: ₹15-20 Lakhs
+- Operations Setup: ₹10-15 Lakhs
+- Marketing & Launch: ₹5-10 Lakhs
+- Working Capital: ₹24 Lakhs
+- **Total Seed**: ₹60-80 Lakhs
 
-### Phase 1: MVP Launch (Months 1-3)
-**Location**: Single tier-2 city (Indore, Surat, or Jaipur)
-**Approach**: WhatsApp-first, hyperlocal focus
-**Targets**: 1,500 customers, 150 partners, 2,000 monthly orders
+## Go-to-Market
 
-### Phase 2: Validation & Scale (Months 4-6)
-**Focus**: Optimize unit economics, launch mobile app
-**Expansion**: 2-3 neighborhoods in same city
-**Targets**: 3,500 customers, 250 partners, 5,000 monthly orders
+### Phase 1: MVP Launch (M1-3)
+- Single tier-2 city (Jaipur, Indore, or Surat)
+- WhatsApp-first approach
+- Target: 1,500 customers, 150 partners
 
-### Phase 3: Multi-City (Months 7-12)
-**Expansion**: 2-3 new tier-2 cities
-**Features**: Full merchant marketplace, subscription system
-**Targets**: 8,000+ customers, 400+ partners, 12,000+ monthly orders
+### Phase 2: Validation (M4-6)
+- Optimize unit economics
+- Launch mobile app
+- Target: 3,500 customers, 250 partners
 
-### Phase 4: Regional Scale (Year 2)
-**Expansion**: 10-15 cities across India
-**Features**: Advanced matching, predictive delivery, B2B partnerships
+### Phase 3: Multi-City (M7-12)
+- Expand to 2-3 new cities
+- Full merchant marketplace
+- Target: 8,000+ customers, 400+ partners
 
 ## Critical Success Factors
 
-1. **Unit Economics**: Prove delivery cost can be <30% of order value
-2. **Partner Retention**: Achieve >70% weekly active rate
-3. **Customer Acquisition**: Keep CAC <₹50
-4. **Safety**: Zero critical incidents in first 6 months
-5. **Regulatory Compliance**: Full adherence to local laws
-6. **Community Trust**: Build strong local brand presence
-
-## Key Risks & Mitigation
-
-| Risk | Impact | Probability | Mitigation |
-|------|--------|-------------|------------|
-| Low partner retention | Critical | Medium | Transparent earnings, gamification, community |
-| Regulatory issues | Critical | Medium | Early legal compliance, government relations |
-| Unit economics failure | Critical | Low | WhatsApp-first MVP, bicycle focus, subscriptions |
-| Safety incidents | High | Low | Verification, GPS tracking, SOS, insurance |
-| Competition escalation | Medium | High | Community focus, local partnerships, low costs |
+1. Unit economics < 30% delivery cost of order
+2. Partner retention > 70% weekly active
+3. Customer acquisition cost < ₹50
+4. Zero critical safety incidents
+5. Full regulatory compliance
 
 ## Recommendation
 
 ✓ **PROCEED WITH MVP DEVELOPMENT**
 
----
-
-**Status**: Planning Phase - Ready for Development
-**Next Steps**: Complete detailed SRS and technical architecture
+Large underserved market, proven demand, clear path to profitability, achievable MVP timeline.
